@@ -19,9 +19,7 @@ redirect_from:
 
 Welcome to Xianglong Yan’s (闫相龙) personal website!
 
-
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision.
 
 
 # 🔥 News
@@ -44,16 +42,20 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* 国家奖学金
+- *2025.11* 挑战杯特等奖
+- *2025.11* 上海交通大学三好学生标兵
+- 
 
-# 📖 Educations
-- *2023.09 - now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2023.09 - now*, B.Eng. in Computer Science and Technology, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), Shanghai, China.
+- *2020.09 - 2023.06*, High School, [The Experimental High School Attached to Beijing Normal University](https://www.sdsz.com.cn/), Beijing, China.
 
-# 💬 Academic Service
-- Reviewer of ICLR 2026
-- Reviewer of CVPR 2026
-
+# 🤝 Academic Service
+- Reviewer, ICLR 2026
+- Reviewer, CVPR 2026
+  
+<!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
