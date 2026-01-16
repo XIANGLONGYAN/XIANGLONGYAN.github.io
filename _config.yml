@@ -7,7 +7,7 @@
 
 # Site Settings
 title: "Xianglong Yan"
-description: "Xianglong Yan's personal homepage"
+description: "Efficient AI"
 repository: "XIANGLONGYAN/XIANGLONGYAN.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xianglong Yan"
   avatar           : "images/yxl.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Undergraduate at Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
