@@ -19,11 +19,17 @@ redirect_from:
 
 Welcome to Xianglong Yan’s (闫相龙) personal website!
 
-My research interest includes neural machine translation and computer vision.
+I am currently a third-year undergraduate student at Shanghai Jiao Tong University (SJTU), majoring in Computer Science and Technology in the School of Computer Science.
+
+I am advised by Prof. Yulun Zhang.
+
+My research focuses on efficient large language model (LLM) deployment, with particular interests in model compression techniques such as post-training quantization (PTQ), low-bit quantization, and binarization/ternarization. I aim to build accurate yet resource-efficient LLM systems that are practical for real-world deployment. ⚡
+
+I am always open to collaborations and academic discussions. Feel free to reach out via email at yanxianglong@sjtu.edu.cn.
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM has been accepted to ICLR 2025!
 
 # 📝 Publications 
 
