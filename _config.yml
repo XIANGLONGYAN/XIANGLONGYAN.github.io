@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xianglong Yan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/yxl.jpg"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=LL9i9tYAAAAJ&hl=en"
@@ -45,8 +45,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  dblp             : "https://dblp.org/pid/389/5039.html"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0007-7293-0644"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
