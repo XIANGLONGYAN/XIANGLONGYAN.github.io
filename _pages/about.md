@@ -84,8 +84,3 @@ Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, 
 - Reviewer, ICML 2026
 - Reviewer, ICLR 2026
 - Reviewer, CVPR 2026
-  
-<!--
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
