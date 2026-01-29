@@ -37,7 +37,7 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/pt2-llm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PT²-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
+[PT²-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2510.03267)
 
 <u>**Xianglong Yan**<sup>†</sup>, Chengzhu Bao<sup>†</sup>, Zhiteng Li, Tianao Zhang, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, Yulun Zhang<sup>*</sup>  
 
