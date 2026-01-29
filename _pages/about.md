@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to Xianglong Yan’s (闫相龙) personal website!
 
-I am currently a third-year undergraduate student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU), majoring in Computer Science and Technology at the [School of Computer Science](https://www.cs.sjtu.edu.cn/). I am advised by Prof. [Yulun Zhang](https://yulunzhang.com/).
+I am currently a third-year undergraduate student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) (SJTU), majoring in Computer Science and Technology at the [School of Computer Science, SJTU](https://www.cs.sjtu.edu.cn/). I am advised by Prof. [Yulun Zhang](https://yulunzhang.com/).
 
 My research focuses on efficient large language model (LLM) deployment, with particular emphasis on model compression and long-context inference. I am especially interested in post-training quantization (PTQ), low-bit quantization (e.g., binarization and ternarization), and KV cache compression, aiming to build accurate yet resource-efficient LLM systems that are practical for real-world deployment.
 
