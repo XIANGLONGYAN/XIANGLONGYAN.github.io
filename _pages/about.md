@@ -29,6 +29,7 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Our paper PT²-LLM has been accepted to ICLR 2026!
 - *2026.01*: &nbsp;🎉🎉 Our paper Quant-dLLM has been accepted to ICLR 2026!
+- *2025.11*: &nbsp;🎉🎉 Our team was awarded the Grand Prize at the National “Challenge Cup” Competition (挑战杯全国特等奖) for the project “Binarization Compression Technology and Application of Large Models for Edge Deployment”!
 - *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM has been accepted to ICLR 2025!
 
 # 📝 Publications 
@@ -69,9 +70,10 @@ Tianao Zhang*, Zhiteng Li*, **Xianglong Yan**, Haotong Qin, Yong Guo, Yulun Zhan
 
 # 🎖 Honors and Awards
 <!--
-- *2024.10* 国家奖学金
-- *2025.11* 挑战杯特等奖
-- *2025.11* 上海交通大学三好学生标兵
+- *2024.10*: National Scholarship (China; top national-level scholarship for undergraduate students)
+- *2025.09*: National Natural Science Foundation of China (NSFC) Undergraduate Young Scientist Research Grant (RMB 100,000)
+- *2025.11*: China International College Students’ Innovation Competition (“Challenge Cup”) — National Grand Prize (Team Leader)
+- *2025.12*: SJTU Model Student (Outstanding Student Award; awarded annually to 10 students across the entire university)
 -->
 
 # 📖 Education
