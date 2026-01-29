@@ -75,7 +75,7 @@ Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, 
 - *2025.12*: SJTU Model Student (Outstanding Student Award; awarded annually to 10 students across the entire university)
 
 
-# 📖 Education
+# 📖 Educations
 - *2023.09 - now*, B.Eng. in Computer Science and Technology, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), Shanghai, China.
 - *2020.09 - 2023.06*, High School, [The Experimental High School Attached to Beijing Normal University](https://www.sdsz.com.cn/), Beijing, China.
 
