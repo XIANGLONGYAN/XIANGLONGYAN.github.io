@@ -39,7 +39,7 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 [PT²-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
 
-**Xianglong Yan***, Chengzhu Bao*, Zhiteng Li, Tianao Zhang, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, Yulun Zhang†
+**Xianglong Yan**<sup>†</sup>, Chengzhu Bao<sup>†</sup>, Zhiteng Li, Tianao Zhang, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, Yulun Zhang<sup>*</sup>  
 
 [**Code**](https://github.com/XIANGLONGYAN/PT2-LLM) 
 </div>
@@ -50,7 +50,7 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 [ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
 
-Zhiteng Li*, **Xianglong Yan***, Tianao Zhang, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong†, Yulun Zhang†, Xiaokang Yang  
+Zhiteng Li<sup>†</sup>, **Xianglong Yan**<sup>†</sup>, Tianao Zhang, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong<sup>*</sup>, Yulun Zhang<sup>*</sup>, Xiaokang Yang  
 
 [**Code**](https://github.com/ZHITENGLI/ARB-LLM) 
 </div>
@@ -62,19 +62,18 @@ Zhiteng Li*, **Xianglong Yan***, Tianao Zhang, Haotong Qin, Dong Xie, Jiang Tian
 
 [Quant-dLLM: Post-Training Extreme Low-Bit Quantization for Diffusion Large Language Models](https://arxiv.org/abs/2510.03274)
 
-Tianao Zhang*, Zhiteng Li*, **Xianglong Yan**, Haotong Qin, Yong Guo, Yulun Zhang†
+Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **Xianglong Yan**, Haotong Qin, Yong Guo, Yulun Zhang<sup>*</sup>
 
 [**Code**](https://github.com/ZTA2785/Quant-dLLM) 
 </div>
 </div>
 
 # 🎖 Honors and Awards
-<!--
 - *2024.10*: National Scholarship (China; top national-level scholarship for undergraduate students)
 - *2025.09*: National Natural Science Foundation of China (NSFC) Undergraduate Young Scientist Research Grant (RMB 100,000)
 - *2025.11*: China International College Students’ Innovation Competition (“Challenge Cup”) — National Grand Prize (Team Leader)
 - *2025.12*: SJTU Model Student (Outstanding Student Award; awarded annually to 10 students across the entire university)
--->
+
 
 # 📖 Education
 - *2023.09 - now*, B.Eng. in Computer Science and Technology, [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/), Shanghai, China.
