@@ -81,6 +81,4 @@ Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, 
 
 # 🤝 Academic Service
 - Reviewer, ECCV 2026
-- Reviewer, ICML 2026
 - Reviewer, ICLR 2026
-- Reviewer, CVPR 2026
