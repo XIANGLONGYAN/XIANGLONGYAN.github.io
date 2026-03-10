@@ -40,7 +40,9 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 **<u>Xianglong Yan</u>**<sup>†</sup>, Chengzhu Bao<sup>†</sup>, Zhiteng Li, Tianao Zhang, Kaicheng Yang, Haotong Qin, Ruobing Xie, Xingwu Sun, Yulun Zhang<sup>*</sup>  
 
-[**Code**](https://github.com/XIANGLONGYAN/PT2-LLM) 
+[**Code**](https://github.com/XIANGLONGYAN/PT2-LLM)
+
+- **TL;DR**: An efficient post-training ternarization framework for LLMs, incorporating an asymmetric ternary quantizer and column rearrangement strategy.
 </div>
 </div>
 
@@ -49,9 +51,11 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 [ARB-LLM: Alternating Refined Binarizations for Large Language Models](https://arxiv.org/abs/2410.03129)
 
-Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**<sup>†</sup>, Tianao Zhang, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong<sup>*</sup>, Yulun Zhang<sup>*</sup>, Xiaokang Yang  
+Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**<sup>†</sup>, Tianao Zhang, Haotong Qin, Dong Xie, Jiang Tian, Zhongchao Shi, Linghe Kong<sup>*</sup>, Yulun Zhang<sup>*</sup>, Xiaokang Yang
 
-[**Code**](https://github.com/ZHITENGLI/ARB-LLM) 
+[**Code**](https://github.com/ZHITENGLI/ARB-LLM)
+
+- **TL;DR**: Proposes alternating refined binarization for LLMs, surpassing FP16 models on the Pareto curve.
 </div>
 </div>
 
@@ -63,7 +67,9 @@ Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**<sup>†</sup>, Tianao Zhang, 
 
 Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, Haotong Qin, Yong Guo, Yulun Zhang<sup>*</sup>
 
-[**Code**](https://github.com/ZTA2785/Quant-dLLM) 
+[**Code**](https://github.com/ZTA2785/Quant-dLLM)
+
+- **TL;DR**: The first work to explore low-bit quantization for diffusion LLMs, achieving SOTA performance at 2-bit.
 </div>
 </div>
 
