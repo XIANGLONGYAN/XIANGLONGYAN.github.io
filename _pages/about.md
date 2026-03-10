@@ -68,10 +68,10 @@ Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, 
 </div>
 
 # 🎖 Honors and Awards
-- *2024.10*: National Scholarship (China; top national-level scholarship for undergraduate students)
-- *2025.09*: National Natural Science Foundation of China (NSFC) Undergraduate Young Scientist Research Grant (RMB 100,000)
-- *2025.11*: China International College Students’ Innovation Competition (“Challenge Cup”) — National Grand Prize (Team Leader)
-- *2025.12*: SJTU Model Student (Outstanding Student Award; awarded annually to 10 students across the entire university)
+- *2024.10*: National Scholarship, China (Top 0.2%)
+- *2025.09*: NSFC Undergraduate Young Scientist Research Grant
+- *2025.11*: National Grand Prize, “Challenge Cup” Competition (Team Leader)
+- *2025.12*: SJTU Model Student (Top 10 university-wide, 2025)
 
 
 # 📖 Educations
