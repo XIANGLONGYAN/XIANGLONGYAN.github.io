@@ -80,5 +80,4 @@ Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, 
 - *2020.09 - 2023.06*, High School, [The Experimental High School Attached to Beijing Normal University](https://www.sdsz.com.cn/), Beijing, China.
 
 # 🤝 Academic Service
-- Reviewer, ECCV 2026
 - Reviewer, ICLR 2026
