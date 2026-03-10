@@ -27,6 +27,7 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 We released [Awesome Visual Autoregressive Modeling](https://github.com/XIANGLONGYAN/Awesome-Visual-Autoregressive-Modeling), a curated list of 60+ papers on the VAR paradigm!
 - *2026.01*: &nbsp;🎉🎉 Our papers PT²-LLM and Quant-dLLM have been accepted to ICLR 2026!
 - *2025.11*: &nbsp;🎉🎉 Our team was awarded the Grand Prize at the National “Challenge Cup” Competition (挑战杯全国特等奖)!
 - *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM has been accepted to ICLR 2025!
