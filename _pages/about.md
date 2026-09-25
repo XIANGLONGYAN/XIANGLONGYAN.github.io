@@ -27,25 +27,14 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper [D²Quant](https://arxiv.org/abs/2602.02546) has been accepted to NeurIPS 2026!
+- *2026.09*: &nbsp;🎉🎉 I was awarded the SenseTime Scholarship (30 recipients nationwide each year)!
 - *2026.03*: &nbsp;🎉🎉 We released [Awesome Visual Autoregressive Modeling](https://github.com/XIANGLONGYAN/Awesome-Visual-Autoregressive-Modeling), a curated list of 60+ papers on the VAR paradigm!
 - *2026.01*: &nbsp;🎉🎉 Our papers PT²-LLM and Quant-dLLM have been accepted to ICLR 2026!
 - *2025.11*: &nbsp;🎉🎉 Our team was awarded the Grand Prize at the National “Challenge Cup” Competition (挑战杯全国特等奖)!
 - *2025.01*: &nbsp;🎉🎉 Our paper ARB-LLM has been accepted to ICLR 2025!
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/robuq.png' alt="RobuQ framework" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](https://arxiv.org/abs/2509.23582)
-
-Kaicheng Yang, Xun Zhang, Haotong Qin, Yucheng Lin, Kaisen Yang, **<u>Xianglong Yan</u>**, Yulun Zhang
-
-[**Code**](https://github.com/racoonykc/RobuQ)
-
-- **TL;DR**: Robust activation quantization and mixed precision enable diffusion transformers with ternary weights and near 2-bit activations.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/d2quant.png' alt="D²Quant framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -100,11 +89,25 @@ Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/robuq.png' alt="RobuQ framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](https://arxiv.org/abs/2509.23582)
+
+Kaicheng Yang, Xun Zhang, Haotong Qin, Yucheng Lin, Kaisen Yang, **<u>Xianglong Yan</u>**, Yulun Zhang
+
+[**Code**](https://github.com/racoonykc/RobuQ)
+
+- **TL;DR**: Robust activation quantization and mixed precision enable diffusion transformers with ternary weights and near 2-bit activations.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.10*: National Scholarship, China (Top 0.2%)
 - *2025.09*: NSFC Undergraduate Young Scientist Research Grant
 - *2025.11*: National Grand Prize, “Challenge Cup” Competition (Team Leader)
 - *2025.12*: SJTU Model Student (Top 10 university-wide, 2025)
+- *2026.09*: SenseTime Scholarship (30 recipients nationwide each year)
 
 
 # 📖 Educations
@@ -113,3 +116,5 @@ Tianao Zhang<sup>†</sup>, Zhiteng Li<sup>†</sup>, **<u>Xianglong Yan</u>**, 
 
 # 🤝 Academic Service
 - Reviewer, ICLR 2026
+- Reviewer, NeurIPS 2026
+- Reviewer, ICLR 2027
