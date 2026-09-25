@@ -34,6 +34,32 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/robuq.png' alt="RobuQ framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RobuQ: Pushing DiTs to W1.58A2 via Robust Activation Quantization](https://arxiv.org/abs/2509.23582)
+
+Kaicheng Yang, Xun Zhang, Haotong Qin, Yucheng Lin, Kaisen Yang, **<u>Xianglong Yan</u>**, Yulun Zhang
+
+[**Code**](https://github.com/racoonykc/RobuQ)
+
+- **TL;DR**: Robust activation quantization and mixed precision enable diffusion transformers with ternary weights and near 2-bit activations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/d2quant.png' alt="D²Quant framework" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[D²Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs](https://arxiv.org/abs/2602.02546)
+
+**<u>Xianglong Yan</u>**, Chengzhu Bao, Zhiteng Li, Tianao Zhang, Shaoqiu Zhang, Ruobing Xie, Xingwu Sun, Yulun Zhang
+
+[**Code**](https://github.com/XIANGLONGYAN/D2Quant)
+
+- **TL;DR**: Dual-scale quantization and deviation-aware correction improve sub-4-bit weight-only post-training quantization for LLMs.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/pt2-llm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
