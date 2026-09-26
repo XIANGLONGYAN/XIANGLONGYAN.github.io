@@ -104,10 +104,10 @@ Kaicheng Yang, Xun Zhang, Haotong Qin, Yucheng Lin, Kaisen Yang, **<u>Xianglong 
 
 # 🎖 Honors and Awards
 - *2024.10*: National Scholarship, China (Top 0.2%)
+- *2026.09*: SenseTime Scholarship (30 recipients nationwide each year)
 - *2025.09*: NSFC Undergraduate Young Scientist Research Grant
 - *2025.11*: National Grand Prize, “Challenge Cup” Competition (Team Leader)
 - *2025.12*: SJTU Model Student (Top 10 university-wide, 2025)
-- *2026.09*: SenseTime Scholarship (30 recipients nationwide each year)
 
 
 # 📖 Educations
