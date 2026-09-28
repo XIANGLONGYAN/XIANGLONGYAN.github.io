@@ -102,6 +102,20 @@ Kaicheng Yang, Xun Zhang, Haotong Qin, Yucheng Lin, Kaisen Yang, **<u>Xianglong 
 </div>
 </div>
 
+## CVPR 2026 Workshops
+
+- [The Fourth Challenge on Image Super-Resolution (×4) at NTIRE 2026: Benchmark Results and Method Overview](https://arxiv.org/abs/2604.14558)
+
+  Zheng Chen, Kai Liu, Jingkai Wang, **<u>Xianglong Yan</u>**, et al. · [**Code**](https://github.com/zhengchen1999/NTIRE2026_ImageSR_x4)
+
+  **TL;DR**: Summarizes the NTIRE 2026 ×4 image super-resolution challenge across restoration and perceptual tracks.
+
+- [The First Challenge on Remote Sensing Infrared Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview](https://arxiv.org/abs/2604.21312)
+
+  Kai Liu, Haoyang Yue, Zeli Lin, Zheng Chen, Jingkai Wang, Jue Gong, Jiatong Li, **<u>Xianglong Yan</u>**, et al. · [**Code**](https://github.com/Kai-Liu001/NTIRE2026_infraredSR)
+
+  **TL;DR**: Benchmarks ×4 super-resolution for remote sensing infrared images and summarizes participating methods.
+
 # 🎖 Honors and Awards
 - *2024.10*: National Scholarship, China (Top 0.2%)
 - *2026.09*: SenseTime Scholarship (30 recipients nationwide each year)
