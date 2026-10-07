@@ -41,7 +41,7 @@ I am always open to collaborations and academic discussions. Feel free to reach 
 
 [D²Quant: Accurate Low-bit Post-Training Weight Quantization for LLMs](https://arxiv.org/abs/2602.02546)
 
-**<u>Xianglong Yan</u>**, Chengzhu Bao, Zhiteng Li, Tianao Zhang, Shaoqiu Zhang, Ruobing Xie, Xingwu Sun, Yulun Zhang
+**<u>Xianglong Yan</u>**<sup>†</sup>, Chengzhu Bao<sup>†</sup>, Zhiteng Li, Tianao Zhang, Shaoqiu Zhang, Ruobing Xie, Xingwu Sun, Yulun Zhang
 
 [**Code**](https://github.com/XIANGLONGYAN/D2Quant)
 
