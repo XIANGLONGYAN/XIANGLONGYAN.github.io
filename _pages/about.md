@@ -102,11 +102,6 @@ Kaicheng Yang, Xun Zhang, Haotong Qin, Yucheng Lin, Kaisen Yang, **<u>Xianglong 
 </div>
 </div>
 
-# 🌐 Community Contributions
-- *2026*: Challenge co-organizer at the [NTIRE 2026 Workshop](https://www.cvlai.net/ntire/2026/) (CVPR 2026):
-  - [Image Super-Resolution (×4) Challenge](https://ntire-sr.github.io/2026/) ([report](https://arxiv.org/abs/2604.14558))
-  - [Remote Sensing Infrared Image Super-Resolution Challenge](https://github.com/Kai-Liu001/NTIRE2026_infraredSR) ([report](https://arxiv.org/abs/2604.21312))
-
 # 🎖 Honors and Awards
 - *2024.10*: National Scholarship, China (Top 0.2%)
 - *2026.09*: SenseTime Scholarship (30 recipients nationwide each year)
@@ -126,3 +121,6 @@ Kaicheng Yang, Xun Zhang, Haotong Qin, Yucheng Lin, Kaisen Yang, **<u>Xianglong 
 - Reviewer, ICLR 2026
 - Reviewer, NeurIPS 2026
 - Reviewer, ICLR 2027
+- *2026*: Challenge co-organizer at the [NTIRE 2026 Workshop](https://www.cvlai.net/ntire/2026/) (CVPR 2026):
+  - [Image Super-Resolution (×4) Challenge](https://ntire-sr.github.io/2026/) ([report](https://arxiv.org/abs/2604.14558))
+  - [Remote Sensing Infrared Image Super-Resolution Challenge](https://github.com/Kai-Liu001/NTIRE2026_infraredSR) ([report](https://arxiv.org/abs/2604.21312))
